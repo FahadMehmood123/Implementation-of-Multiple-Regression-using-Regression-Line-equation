@@ -1,2 +1,2 @@
 # Implementation-of-Multiple-Regression-using-Regression-Line-equation
-Implement Multiple Regression using Regression Line equation by making my own dataset
+Multiple Linear Regression is basically indicating that we will be having many features Such as f1, f2, f3, f4, and our output feature f5.In this file I have made my own dataset but you can import your own csv file inside project (to import CSV file in project download my pandas basic repository). In this code I predict the CO2 emission of a car at certain  and volume. This is basic structure of predicting value using Multiple Line Regression you can make changes according to your need.
